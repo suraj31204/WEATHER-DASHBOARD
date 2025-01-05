@@ -73,4 +73,8 @@ The final step was deploying the application. I used **Vercel** for hosting and 
 
 ---
 
+# OUTPUT OF THE TASK 
+
+![Screenshot 2025-01-05 215103](https://github.com/user-attachments/assets/77bcb653-9ea6-4a4c-8477-4a7f19270da3)
+
   
