@@ -12,7 +12,7 @@
 
 **MENTOR NAME**: NEELA SANTHOSH
 
-# DESCRIPTION :  ### Internship Task Description: Weather Dashboard Development  
+# DESCRIPTION :   Weather Dashboard Development  
 
 During the one-month internship at CodeTech IT Solutions, I worked on developing a **Weather Dashboard** application as part of the React.js Web Development domain. Under the mentorship of **Neela Santhosh**, the internship was an enriching experience that allowed me to gain hands-on expertise in web development, API integration, and front-end engineering. Below is a detailed description of the tasks I performed during the project.  
 
@@ -75,6 +75,7 @@ The final step was deploying the application. I used **Vercel** for hosting and 
 
 # OUTPUT OF THE TASK 
 
-![Screenshot 2025-01-05 215103](https://github.com/user-attachments/assets/77bcb653-9ea6-4a4c-8477-4a7f19270da3)
+![Screenshot 2025-01-05 220513](https://github.com/user-attachments/assets/beedf87a-c23d-45e3-ae0e-aca577e94a66)
+
 
   
